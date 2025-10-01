@@ -3,10 +3,10 @@
 This project generates fully procedural 3D terrains in Unity using **stacked Perlin noise profiles**.  
 By combining multiple Perlin layers with different tiling, offsets, and amplitudes, you can create rich, varied landscapes — from rolling hills to jagged mountains.  
 
-![Terrain Example](docs/screenshot.png)  
-*(Example terrain generated with layered Perlin noise)*
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/20191add-12cd-4b7b-b71b-e2e9af8be592" />
 
-🎥 **[Watch the Showcase Video](https://your-video-link-here.com)**
+
+https://github.com/user-attachments/assets/0cfc6d57-83cf-4b58-9232-93f20e691cbb
 
 ---
 
