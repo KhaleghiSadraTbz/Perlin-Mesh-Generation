@@ -5,8 +5,7 @@ By combining multiple Perlin layers with different tiling, offsets, and amplitud
 
 <img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/20191add-12cd-4b7b-b71b-e2e9af8be592" />
 
-
-https://github.com/user-attachments/assets/0cfc6d57-83cf-4b58-9232-93f20e691cbb
+https://github.com/user-attachments/assets/081f150d-511e-4ced-ad63-e603ca3e5ebe
 
 ---
 
